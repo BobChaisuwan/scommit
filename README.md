@@ -1,0 +1,2 @@
+# scommit
+Show commit
