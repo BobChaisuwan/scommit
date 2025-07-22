@@ -1,2 +1,2 @@
 # scommit
-Show commit
+Show commit msg
